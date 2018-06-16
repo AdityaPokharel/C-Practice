@@ -12,4 +12,4 @@ Where:
 Program creates a new .ppm image file on the same directory with the pixelation applied.
 
 
-TODO: Write up a k-means clustering algorithm for image compression.
+TODO: Write up a k-means clustering algorithm for image compression. (Shown in COMP3308 Lecture 12 -- seems like it'd be fun to implement.)
